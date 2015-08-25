@@ -2,13 +2,13 @@
 ##Java is strongly typed
 variables can only contain one type of value
 ##Types
-###int
--2^31 to 2^31 - 1
-###double
+###int (4 bytes)
+integer in range -2^31 to 2^31 - 1
+###double (8 bytes)
 values in scientific notation
-###char
+###char (2 bytes)
 represents single characters
-###boolean
+###boolean (1 bit)
 true or false
 
 ###casts
