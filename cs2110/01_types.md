@@ -12,7 +12,7 @@ represents single characters
 true or false
 
 ###casts
-casts can occur like so:
+casts can occur like so automatically:
 
 `byte` <- `short` <- `int` <- `long` <- `float` <- `double`
 
