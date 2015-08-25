@@ -4,4 +4,18 @@ variables can only contain one type of value
 ##Types
 ###int
 -2^31 to 2^31 - 1
+###double
+values in scientific notation
+###char
+represents single characters
+###boolean
+true or false
 
+###casts
+casts can occur like so:
+byte <- short <- int <- long <- float <- double
+but not in the reverse order like so:
+byte -> short -> int -> long -> float -> double
+instead casts must be used: variable type with parentheses around it
+##Variables
+must be declared before they can be used
