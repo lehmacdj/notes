@@ -12,10 +12,15 @@ represents single characters
 true or false
 
 ###casts
-casts can occur like so:<br/>
-byte <- short <- int <- long <- float <- double<br/>
-but not in the reverse order like so:<br/>
-byte -> short -> int -> long -> float -> double<br/>
+casts can occur like so:
+
+`byte` <- `short` <- `int` <- `long` <- `float` <- `double`
+
+but not in the reverse order like so:
+
+`byte` -> `short` -> `int` -> `long` -> `float` -> `double`
+
 instead casts must be used: variable type with parentheses around it<br/>
+
 ##Variables
 must be declared before they can be used
