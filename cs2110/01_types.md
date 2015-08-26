@@ -1,7 +1,7 @@
 #Introduction and Types
 ##Java is strongly typed
 variables can only contain one type of value
-##Types (The most commonly used
+##Types (The most commonly used)
 ###int (4 bytes)
 integer in range -2^31 to 2^31 - 1
 ###double (8 bytes)
