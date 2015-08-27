@@ -10,10 +10,10 @@ every expression yields a value
 variables store addresses to an object
 
 ##Class definition
-
-    /**description of object*/
-    public class C {
-        //declaration of methods
-    }
-
+```java
+/**description of object*/
+public class C {
+    //declaration of methods
+}
+```
 
