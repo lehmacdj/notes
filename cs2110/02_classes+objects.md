@@ -31,5 +31,5 @@ public class C extends javax.swing.JFrame {
     public void setDate() {
         setTitle(new java.util.Date().toString());
     }
+}
 ```
-
