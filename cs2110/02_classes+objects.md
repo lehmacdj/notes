@@ -1,7 +1,7 @@
 #Classes and Objects
 ##Methods
-+ *function* - returns a value
-+ *procedure* - does something
++ **function** - returns a value
++ **procedure** - does something
 
 evaluation of a new expression creates an objects
 
