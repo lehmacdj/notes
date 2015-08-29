@@ -3,7 +3,8 @@
 + Conservation of energy
 + In reality energy is lost to friction
 
-##Experiment 1
+##Thought Experiments
+###Experiment 1
 
 + fixed volume
 + Reaction of 2H2 and O2
@@ -13,9 +14,9 @@
 + fuse is lit
 
 + forms 2H20
-+ heat is transfered to the water
++ heat is transfered to the water q1
 
-##Experiment 2
+###Experiment 2
 
 + same but with vacuum instead of water
 + variable volume
@@ -27,11 +28,20 @@
 + forms 2H20
 + volume expands
 + no heat is transfered
-+ the piston can do work
++ the piston can do work = W2
 
-##Experiment 3
+###Experiment 3
 
 + mixed experiment
 + good thermal conduct
 + expandable volume
 
++ some heat transfered = q3
++ some work done = W3
+
+###Observation
++ q1 = W2 = q3 + W3
+
++ Ansatz -- fancy german word for guess
+
+delta U = Uf - Ui = q + W
