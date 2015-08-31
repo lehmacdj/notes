@@ -4,10 +4,7 @@
 + vectors are bold or have an arrow over them
 + two ways of writing
     + (a, b)
-    + ```
-      [a]
-      [b]
-      ```
+    + [a / b]
 + order matters
 + addition: just add the two components
 + multiplication by scalar: just multiply the components
