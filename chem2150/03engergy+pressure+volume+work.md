@@ -6,12 +6,13 @@
     + number of particles
     + arrangement of atoms
 + Energy is a function of state
+
 ##Work
 ###Scenario
 + A movable piston extends
 + Work = External Force x Distance
 + work done on the gas
-
+###Proof
 ```
 W = Pext (x2 - x1) = Pext/A * A(x2-x1)
     Pext / A } external pressure
