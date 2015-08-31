@@ -44,4 +44,4 @@
 
 + Ansatz -- fancy german word for guess
 
-delta U = Uf - Ui = q + W
+∆U = Uf - Ui = q + W
