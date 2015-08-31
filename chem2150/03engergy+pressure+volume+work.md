@@ -11,14 +11,17 @@
 + A movable piston extends
 + Work = External Force x Distance
 + work done on the gas
-+ W = Pext (x2 - x1) = Pext/A * A(x2-x1)
-    + Pext / A } external pressure
-    + A(x2 -x1) } volume change
 
-+ W = Pext * ∆V
-+ dw = -Pext (X) dv
-+ Total Work:
 ```
+W = Pext (x2 - x1) = Pext/A * A(x2-x1)
+    Pext / A } external pressure
+    A(x2 -x1) } volume change
+
+W = Pext * ∆V
+
+dw = -Pext (X) dv
+
+Total Work:
      v2
 w = -∫ Pext (X) dV
      v1
