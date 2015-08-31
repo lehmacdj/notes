@@ -11,6 +11,7 @@
 + we can not multiply two vectors
     + dot product
     + cross product
+
 ## Axioms
 1. Addition is commutative: **v** + **u** = **u** + **v**
 2. Addition is associative: (**v** + **u**) + **w** = **v** + (**u** + **w**)
