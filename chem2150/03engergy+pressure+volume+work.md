@@ -29,3 +29,7 @@ w = -∫ Pext (X) dV
      v1
 ```
 
+##Work, Heat, and Energy
++ a piston cycles following different paths ot get to the starting point
++ ∆U = 0 for the cycle
+    + as long as the path is a closed loop
