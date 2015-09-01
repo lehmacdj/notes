@@ -49,6 +49,11 @@ public class Time {
 + invariant -- a description of what the field contains.  Must be enforced by all methods
 + /** **javadoc** -- to be used to describe stuff
 + constructor -- allows custom initialization of a new object
-
-**Purpose of a constructor** -- initialize field of a new object so its class invariant is true
-
+##Constructor
+initialize field of a new object so its class invariant is true
+###New expression new \<constructor-call>
+1. create a new object of class, with default values in fields
+2. Execute the constructor-call
+3. Give as value of the expression the name of the new Object
+###Testing
++ check that every field has the correct value
