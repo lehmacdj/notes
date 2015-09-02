@@ -38,7 +38,6 @@ w = -∫ Pext (X) dV
 . | Depends on | state func? 
 -- | -- | --
 Energy (U) | V, T, Atoms | Yes
--- | -- | --
 P-V Work (W) | P, V | No
 
 + ∆U = q + W
