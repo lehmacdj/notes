@@ -50,4 +50,4 @@ where:
 + the zero solution or trivial solution
 + the question remains is there another solution
 
-
+There is a solution for every free variable to this equation
