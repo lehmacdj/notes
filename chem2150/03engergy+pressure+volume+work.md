@@ -35,7 +35,7 @@ w = -∫ Pext (X) dV
 + ∆U = 0 for the cycle
     + as long as the path is a closed loop
 
- | Depends on | state func? 
+. | Depends on | state func? 
 -- | -- | --
 Energy (U) | V, T, Atoms | Yes
 -- | -- | --
