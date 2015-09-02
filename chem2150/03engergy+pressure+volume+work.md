@@ -31,5 +31,14 @@ w = -∫ Pext (X) dV
 
 ##Work, Heat, and Energy
 + a piston cycles following different paths ot get to the starting point
++ Pressure vs Volume Curve
 + ∆U = 0 for the cycle
     + as long as the path is a closed loop
+
+ | Depends on | Path Independent
+--
+Energy (U) | V, T, Atoms | Yes
+--
+P-V Work (W) | P, V | No
+
+
