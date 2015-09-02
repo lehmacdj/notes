@@ -56,6 +56,7 @@ P-V Work (W) | P, V        | No
 ```
 + normally constant volume is not used
 + instead P is constant
++ sign is negative if work is done on the gas
 
 ##Enthalpy
 + H = U + PV
@@ -71,7 +72,15 @@ the terms cancel and we get:
 ```
 + ∆H˚rxn = -110.5 kJ/mol
     + ˚ } standard state 1 atm and 25˚C
++ ∆H = Uproducts - Ureactants
+    + Solids can be neglected because they are very small
+    + "a fart in a windstorm"
++ ∆H is...
+    + negative for exothermic reactions -- heat is released by the reaction
+    + positive for endothermic reactions -- heat is absorbed by the reaction
 
-
-
-
+###Enthapy rules
+1. standard state -- all reactions are measured at one bar and 25˚C
+2. more stuff, more enthalpy
+    + multiplying and dividing of reactions and such
+    + be careful what the actual reaction is
