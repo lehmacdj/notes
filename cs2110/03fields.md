@@ -45,7 +45,7 @@ public class Time {
     ...
     
 }
-
+```
 + invariant -- a description of what the field contains.  Must be enforced by all methods
 + /** **javadoc** -- to be used to describe stuff
 + constructor -- allows custom initialization of a new object
