@@ -79,8 +79,19 @@ the terms cancel and we get:
     + negative for exothermic reactions -- heat is released by the reaction
     + positive for endothermic reactions -- heat is absorbed by the reaction
 
-###Enthapy rules
+###Enthapy rules 
 1. standard state -- all reactions are measured at one bar and 25˚C
 2. more stuff, more enthalpy
     + multiplying and dividing of reactions and such
     + be careful what the actual reaction is
+3. reverse reaction reverse the sign
+###Hess's Law
++ reactions can be added:
+    + you then add the enthalpies to get the new enthalpy of the reaction
+
+###Heat of formation reactions
++ reactions that are used as the basis for predicting other reactions
++ reactions of things in standard state to form compounds
+    + example reaction: 
+        + 2Fe(s) + 3/2O2 -> 1Fe2O3 ∆H˚f = -820 kJ/mol
+        + 2Al + 3/2O2 -> 12Al2O3 ∆H˚f = -1670 kJ/mol
