@@ -52,7 +52,7 @@ where:
 + if you solve the system:
     + the solution set is a span of the number of variables equal to the span of the number of free variables
     + The solutions are not unique: there are many solutions
-    + See page 6 of red to read solutions
+    + See page 7R to read solutions directly from matrix
 
 ##Non-homogenous systems
 + A*x* = *b*
