@@ -96,3 +96,5 @@ CH4 + 2O2 -> CO2 + 2H20
 tada!
 ```
 
+###Loops
++ a loop represents a free variable
