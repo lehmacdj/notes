@@ -98,7 +98,7 @@ the terms cancel and we get:
 + Generalizing the equation
     + ∆H˚rxn = ∑ np ∆H˚p - ∑ nr ∆H˚r
 
-[supplementary/sep08.ppt]
+[Supplementary Notes](supplementary/sep08.ppt)
 
 ###Heat capacity (Cp)
 + Cp = ∂gp/∂T -> per mole Cp = 1/n * 2gp/2T [J/mol*K] or [J/mol*˚C] = 1/n * ∆H/∆T
