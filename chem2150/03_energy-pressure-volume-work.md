@@ -95,3 +95,16 @@ the terms cancel and we get:
     + example reaction: 
         + 2Fe(s) + 3/2O2 -> 1Fe2O3 ∆H˚f = -820 kJ/mol
         + 2Al + 3/2O2 -> 12Al2O3 ∆H˚f = -1670 kJ/mol
++ Generalizing the equation
+    + ∆H˚rxn = ∑ np ∆H˚p - ∑ nr ∆H˚r
+
+[a supplementary/sep08.ppt](supplementary/sep08.ppt)
+
+###Heat capacity (Cp)
++ Cp = ∂gp/∂T -> per mole Cp = 1/n * 2gp/2T [J/mol*K] or [J/mol*˚C] = 1/n * ∆H/∆T
+    + at constant pressure
+
+###Calculating Temperature
++ ∆T = ∆H/n*Cp
+    + Cp } in general you just look up Cp or it can be measured
+
