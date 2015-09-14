@@ -26,14 +26,13 @@
 + a fuction where different points in te domain have different images
 + to determine if a function is unique one has to determine if it has a unique solution
     + A**x** = **0** must have a unique solution
+       + if it is always true (true for all b) then the system is onto
 
 ####The Following are equivalent -- 1 to 1
 + T is 1 to 1
 + T(v) = 0 has only a trivial solution
-+ RREF of the matrix ovf T has pivots in every column
++ RREF of the matrix of T has pivots in every column
 + the columns of the matrix are linearly independent
-
-       + if it is always true then the system is onto
 
 ## Transformations
 + a transformation is linear if the following is true
