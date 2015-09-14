@@ -16,7 +16,7 @@
 ### Onto
 + every point in the co-domain is an image of something
 
-##The following are also equivalent -- ONTO
+####The following are also equivalent -- ONTO
 + T is onto
 + T(x) = v has a solution for every **b**
 + RREF of the matrix has pivots in every row
