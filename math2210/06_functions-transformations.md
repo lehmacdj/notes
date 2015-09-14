@@ -18,7 +18,7 @@
 
 ####The following are also equivalent -- ONTO
 + T is onto
-+ T(x) = v has a solution for every **b**
++ T(x) = **b** has a solution for every **b**
 + RREF of the matrix has pivots in every row
 + The rows of the matrix are linearly independent
 
