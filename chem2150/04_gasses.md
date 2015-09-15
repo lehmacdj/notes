@@ -37,6 +37,7 @@ w = -∫ P(V) dV = -nRT ∫ 1/V dV
 w = -nRT * ln(V2/V1)
 ```
 ##Adiabatic -- no heat in
+````
 q = 0
 ∆U = w
 dU = n * Cv dT
@@ -46,3 +47,18 @@ Cv dT/T = -R * dV/V
 Cv * ln(T1/T2) = -Rln(V2/V1) = Rln(V1/V2)
 exponentiating
 (T2/T1)^Cv = (V1/V2)^R 
+rearange exponents
+T2 / T1 = (V1 / V2) ^ (R/Cv)
+R/Cv = (Cp - Cv) / Cv = Cp/Cv -1 = ɣ - 1
+T2/T1 = (V1/V2) ^ (ɣ -1)
+T1V1^(ɣ-1) = T2V2^(ɣ-1)
+```
+
+##Constant number of moles
++ P1V1/T1 = P2V2/T2
++ P1V1^ɣ = P2V2^ɣ
++ P(V) = P1V1^ɣ * 1/V^ɣ
+
+##Ideal Gasses
++ for monoatomic ideal gasses
+    + ɣ = 5/3
