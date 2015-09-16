@@ -35,3 +35,13 @@
 + up casts can never fail so this occurs silently in the program as needed
 
 ##instanceof
++ checks if a class is a instance of the other class
++ for example `dog instanceof Animal` would return true
+    + assuming dog is an instance of `Dog extends Animal`
+
+##Equals
++ public boolean equals(Object o);
++ a method that checks if two objects are equivalent
++ checks if two things are equal
++ often overriden in base classes
+
