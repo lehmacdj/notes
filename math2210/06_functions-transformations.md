@@ -53,20 +53,7 @@
 2. combine into a matrix
     + A = [T(e1), T(e2), ..., T(em)]
 
-###Adding the linear transformations
-+ Linear transformations can be added
-    + T(x) = T'(v) + T"(v)
-+ As a consequence matrixes can also be added
-
-###Multiplying by numbers
-+ (λT)(v) := λ(T(v)) = T(λv)
-
-###Multiplying by matrixes
-+ composition combines linear transformations
-+ does one after another
-+ the result will also be a linear transformation
-+ AB <---> linear transformation R^k -> R^n
-    + where A is m * k
-    + and B is n * m 
-    + B is the matrix that is applied first
-+ To multiply you multiply all of the column vectors of B by A and then put the result back into the original matrix
+### Inverse funtions
++ T is invertible if it is 1 to 1 and onto
+    + for every b there exists a unique a such that T(a) = b
+    + if T is linear then T^-1 is linear
