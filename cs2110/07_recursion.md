@@ -29,3 +29,8 @@
 + Math use recursion a lot
     + factorials, exponentiation, etc.
 
+##How do we view recursive functions
+1. Have a precise spec
+2. assume that it does the right thing
+3. Look at all other cases and make sure that they get converted to smaller problems of the same kind
+3. make sure that method actually returns
