@@ -60,4 +60,11 @@ temperature increases
 ```
 
 ####Reversable vs Irreversable
-qrev > qirrev
++ qrev > qirrev
++ wirrev > wrev
+
+###Thermodynamics 
++ we partition the environment into teh surroundings and the system
++ ∆S = ∫dq/T for the system
++ ∆S = q/T for the surroundings (rev, or irrev) since T remains approximately equal
+
