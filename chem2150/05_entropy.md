@@ -68,3 +68,20 @@ temperature increases
 + ∆S = ∫dq/T for the system
 + ∆S = q/T for the surroundings (rev, or irrev) since T remains approximately equal
 
+####The laws of thermodynamics
+1. ∆Usys = ∆Usurr = 0
+    + } ∆Usurr = -(q + w)
+2. ∆Ssys + ∆Ssurr ≥ 0
+3. S -> 0 as T -> 0 ∴ S = ∫(0, T) dqrev/T
+
+###Measuring entropy
++ dqrev = nCpdT
++ ∆T/∆Q = 1/(nCp)
++ the entropy is the area under the Cp/T to T curve
+
+###Entropy properties
++ The more parts the more entropy
++ The more gasseous the more entropy
++ complexity => more entropy
++ floppyness => more entropy
++ different molecules
