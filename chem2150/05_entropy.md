@@ -85,3 +85,4 @@ temperature increases
 + complexity => more entropy
 + floppyness => more entropy
 + different molecules
+

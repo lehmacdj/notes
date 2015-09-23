@@ -24,16 +24,3 @@
 + A = P D p^-1
     + useful for raising a matrix to a large power
 
-##Subspaces
-+ a subset of R^n
-+ Conditions for a subspace
-    + if **u**, **v** in U then **u** + **v** is also in U
-    + the same is true for scalar multiplication
-    + **0** is in U
-+ A line could be a subspace of R^n
-+ Column space of A
-    + the span of the column vectors of A
-    + all vectors **b** suchthat A**x** = **b** has a solution
-+ Null subspace of R^n
-    + all x ∈ R^n such A**x** = **0**
-    + solutions of the homogenous system
