@@ -54,4 +54,31 @@
 
 ##Rank Theorem
 + for an n * m matrix A
-    + dimColA + domNulA = m
+    + dimColA + dimNulA = m
+
+## Column Space
++ the number of pivots of A
++ basis for column space of A is the column vectors of A
++ col A is spanned by the column bectors fo A
+
+## Null space of A
++ The number of columns without pivots
++ the solutions of Ax = 0
++ the parametric vectors that make up the solution
+
+## Isomorphism
++ if H is subspace of R^n B = {v1...vp} is a basis
++ for any v in H v = c1v1+...cpvp -> [v]B = [c1;...;cp] ∈ R^p
++ the map v -> [V]B from H to R^p
+    + it is onto and 1 to 1
+    + it preserves addition
+    + it preserves multiplication by scalars
++ serves to map vectors from a more complex subspace H to a simpler subspace with less dimensions
++ this map works for any vector that is the product of A**x**
+
+### Finding the weights
++ solve a system of the vectors that make up the col space times the weight equalling the solution
++ in this way one can get the solution for the weights:w
+
+### Isomorphism for the null space
++ corresponds to the coordinates of the free variables in the vector 

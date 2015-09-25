@@ -46,5 +46,9 @@
 0. there exists C | CA = In
 1. there exists D | AD = In
 2. A^T is invertible
-
-
+3. the column vectors of A form a basis if A^n
+4. colA = R^n
+5. dimColA = n
+6. rank A = n
+7. Nul A = {0}
+8. dimNulA= 0
