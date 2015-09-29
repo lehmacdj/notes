@@ -19,6 +19,7 @@
 + The system adjusts until the ∆G for the system is equal to zero
 
 ###Alternate representation of the ∆G
++ using the reaction 2A <=> B
 ```
 G(P,T,n) = H - TS = U + PV - TS
 ∂G/∂P | T,n = V -> dG = dP @ const T,n
@@ -38,3 +39,17 @@ PBeq * P˚
 PAeq^2
 ```
 + P˚ is the pressure that ∆G˚ was measured at
+
+###Interpreting the equilibrium constant
+
+####The reaction quotient
++ Q = P˚Pb/Pa^2
+    + basically K not at equilibrium
++ compare with K: which is the amount at equilibreum constant at equilibrium
+
+Q and K | ∆G | Reaction direction
+- | - | -
+Q > K | ∆G > 0 | Right -> left, more reactants
+Q = K | ∆G = 0 | Equilibrium
+Q < K | ∆G < 0 | Left -> Right, more products
+
