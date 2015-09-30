@@ -47,9 +47,12 @@ PAeq^2
     + basically K not at equilibrium
 + compare with K: which is the amount at equilibreum constant at equilibrium
 
-Q and K | ∆G | Reaction direction
-- | - | -
-Q > K | ∆G > 0 | Right -> left, more reactants
-Q = K | ∆G = 0 | Equilibrium
-Q < K | ∆G < 0 | Left -> Right, more products
+Q and K | ∆G     | Reaction direction
+--------|--------|------------------------------
+Q > K   | ∆G > 0 | Right -> left, more reactants
+Q = K   | ∆G = 0 | Equilibrium
+Q < K   | ∆G < 0 | Left -> Right, more products
+
+### LeChâtliers principle
++ equilibrium resists change
 
