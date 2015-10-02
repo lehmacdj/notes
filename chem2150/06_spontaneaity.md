@@ -54,5 +54,26 @@ Q = K   | ∆G = 0 | Equilibrium
 Q < K   | ∆G < 0 | Left -> Right, more products
 
 ### LeChâtliers principle
-+ equilibrium resists change
++ equilibrium resists change in
+    + amount
+    + volume / pressure
+    + temperature
++ qualitative reasoning
+    + exothermic case
+        + heat is like a product
+        + increasing temperature is like adding heat
+        + reaction is pushed to the left
+    + endothermic case
+        + heat is a reactant
+        + increasing temperature is increasing heat
+        + reaction is pushed to the right
++ quantitative reasoning
+    + when temperature increases delta T increases
+    + ∂K = dK/dT * ∂T
+    + calculus...
+    + ∂K = ∆H˚/RT * ∂T/T * K
+    + conclusion: K is dependent on ∆H
+        + endo ∆H > 0 -> ∂T > 0 -> ∂K > 0 => more product
+        + exo -> ∆H < 0 -> dT > 0 -> ∂K < 0 => more reactants
+
 
