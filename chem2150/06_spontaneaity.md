@@ -76,4 +76,13 @@ Q < K   | ∆G < 0 | Left -> Right, more products
         + endo ∆H > 0 -> ∂T > 0 -> ∂K > 0 => more product
         + exo -> ∆H < 0 -> dT > 0 -> ∂K < 0 => more reactants
 
+###Equilibrium in solutions
++ we write Kc which has units, whereas K does not have units
++ Kp for gasses
++ ∆G˚f for things in reference state = 0
 
+[Supplementary notes](supplementary/oct2.ppt)
+
+### Solving difficult equations
++ drop x from the denominator if the reaction is centered around reactants, and x << the amount of products
++ repeat the process several times until the answer is quite stable

@@ -42,6 +42,10 @@
     + f1 = 1/2 x(x-1)
     + f2 = 1/2 x(x+1)
     + f3 = 1 - x^2
++ vectors can be formed to represent the coefficient of x^0..x^n these can represent the possible polynoimials
 + These different basises are very different to solve for, one involves solving a system but gives a solution that can easily convert lots of things
 + The other is faster for individual things but lags for large n of vectors to convert
 
+##Dimension of vector spaces
++ The number of elements in a basis
++ Th: if V has basis B = {v1..vn} then any n+1 vectors {w1..wn+1} are linearly dependent
