@@ -49,3 +49,5 @@
 ##Dimension of vector spaces
 + The number of elements in a basis
 + Th: if V has basis B = {v1..vn} then any n+1 vectors {w1..wn+1} are linearly dependent
++ if W is a subspace of V then dimW ≤ dimV
+
