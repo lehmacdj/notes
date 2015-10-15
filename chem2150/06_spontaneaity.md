@@ -83,6 +83,12 @@ Q < K   | ∆G < 0 | Left -> Right, more products
 
 [Supplementary notes](supplementary/oct2.ppt)
 
-### Solving difficult equations
+### Solving difficult equations (reagent based)
 + drop x from the denominator if the reaction is centered around reactants, and x << the amount of products
 + repeat the process several times until the answer is quite stable
+
+### Solving difficult reactions (product based)
++ the brute force way
+    + trial and error
++ run the reaction completely backward and then run it forward in small increments
+

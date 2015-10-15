@@ -25,7 +25,7 @@
 + the null space of the transformation
 + { all v in T | T(v) = 0 }
 
-## Range of a function
+## Range of a function / IMage
 + The possible results of a function
 + Column space of T
 + { for all w in v | there exists v in T and T(v) = w }
@@ -50,4 +50,11 @@
 + The number of elements in a basis
 + Th: if V has basis B = {v1..vn} then any n+1 vectors {w1..wn+1} are linearly dependent
 + if W is a subspace of V then dimW ≤ dimV
+
+## Rank
++ Rank V = dim Ker T + dim Im T
++ Rank T = dim Im T
+
+## Maximum rank
++ rank T˚S ≤ min{rank T, rank S}
 
