@@ -51,7 +51,7 @@ P = P* + ------- ln(---)
 
 substitute
 
-```
+
 dP   ∆Hvap    P
 -- = ----- * ---
 dT     R     T^2
