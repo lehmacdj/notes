@@ -58,3 +58,5 @@
 ## Maximum rank
 + rank T˚S ≤ min{rank T, rank S}
 
+## Determinants are preserved
++ when a linear transformation is applied determinants are preserved
