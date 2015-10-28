@@ -35,3 +35,13 @@
 + the matrix always has rows that are multiples of one another
 + this means that the Null Space can be easily computed by reversing the order of the elements in a row and changing the sign of one of them
 
+## PDP^-1 Factorization
++ P is the matrix of the eigenvectors of A
++ D is the matrix of the eigenvalues of A along the diagonal in the same order that the eigenvectors are in P
++ P^-1 is the inverse of P
++ Result is A = PDP^-1
++ Allows for relatively easy computation of P^n
+    + P^n = P D^n P^-1
+    + since D is a diagonal matrix D^n is easily computed
++ This factorization is only possible if there exists a basis of eigenvectors
+    + this can be a consequence of all roots of characteristic polynomial being distinct
