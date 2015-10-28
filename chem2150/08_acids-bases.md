@@ -43,3 +43,23 @@
 + Two components
     + a weak acid
     + the salt of a weak acid
+
+## Cases for the calculation
+### General
+```
+     x+([Na+]+x - kW/x)
+Ka = ---------------------
+      ([HA]o - x + kW/x)
+where x = [H3O+]
+```
++ Solved for H3O+ this gives a general solution for the H3O+ concentration of the water.
+
+### Acid Only
++ Ka = x^2/([HA]o - x)
+
+### Salt only
++ Kw / Ka = Kb = x^2/([Na+] - x)
+
+### Buffer
++ x = [HA]/[Na+] * Ka
+
