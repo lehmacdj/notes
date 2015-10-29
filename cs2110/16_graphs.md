@@ -68,5 +68,47 @@
 ### Bipartide
 + always two colorable
 
-## The traveling salesman
-+ 
+## Data Structures
++ How do we represent graphs?
+
+### Adjacency List
++ A list is kept for every node
++ the list contains the outgoing edges from that node
++ uses O(m + n) space
++ can iterate over all edges in time O(m + n)
++ Can answer "is there an edge from u to v?" in O(d(u)) time
++ better for sparse graphs
+
+### Adjacency Matrix
++ A 2D matrix with 2 indexes for each node
++ Uses O(n^2) space
++ can iterate over all edges in O(n^2)
++ checking "is there an edge from u to v?" is O(1)
++ better for dense graphs
+
+## Algorithms
+### Search
++ how do we visit each node without too much additional data
+
+#### Depth first 
++ Searches first along the deepest way to go
++ we keep an array of each of the nodes that has already been visited
++ a node is reachable if there is a path to that node for which all nodes in the path are unvisited
+    + from a node which has been visited there are no REACHABLE nodes because it itself has already been visited
+
+```java
+/** Node u is unvisited. Visit all nodes that are REACHABLE from u. */
+public static void dfs(int u) {
+    visited[u] = true;
+    for all edges (u, v) leaving u:
+        if v is unvisited then dfs(v);
+}
+```
+
++ Suppose n nodes are reachable along m edges
+    + O(n + m) run time
+    + O(n + m) space usage
+
+#### Breadth first
++ searches first based on distance from the initial node
++ same as depth first except Stack is replaced with a Queue
