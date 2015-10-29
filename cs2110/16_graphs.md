@@ -66,6 +66,7 @@
 + a computer was used to do the proof
 
 ### Bipartide
-+ two colorable
++ always two colorable
 
 ## The traveling salesman
++ 
