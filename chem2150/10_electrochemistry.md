@@ -1,4 +1,4 @@
-## #Electrochemistry
+#Electrochemistry
 + Consider the following reaction:
 + Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)
     + copper reduced
