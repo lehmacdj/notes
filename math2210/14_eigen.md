@@ -45,3 +45,7 @@
     + since D is a diagonal matrix D^n is easily computed
 + This factorization is only possible if there exists a basis of eigenvectors
     + this can be a consequence of all roots of characteristic polynomial being distinct
+
+## Similarity
++ Two matrixes are similar if A, B have the same charachteristic polynomial and there are no multiple roots
+
