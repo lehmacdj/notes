@@ -112,3 +112,31 @@ public static void dfs(int u) {
 #### Breadth first
 + searches first based on distance from the initial node
 + same as depth first except Stack is replaced with a Queue
+
+## Shortest paths
++ Settled set -- shortest path to node is known
++ Frontier set -- shortest path is not yet known
+
+### Precondition
+1. The nodes in a graph are numbered 0..n-1
+2. each edge has a positive weight
+3. weight(v1, v2) is the weight of the edge from node v1 to v2
+4. some node v is the start node
+5. calculate the length of shortest path from v to each node
+6. use an array L[0..n-1] for each node w store in L[w] the length of the shortest path from v to w
+
+### Loop invariant
+7. for s, L[s] is length of shortest v-> s path
+8. edges leaving S go to F
+9. for f, L[f] is length of shortest v-> f path using red nodes except for f
+0. for b, L[b] = infinity
+1. L[v] = 0, L[w] > 0 for w ≠ v
+
+### Improvements
++ Use a heap
++ The set s does not need to be used
+
+### Time
++ for a complete graph O(n^2 log n)
++ for a sparse graph O(n log n)
++ expected time
