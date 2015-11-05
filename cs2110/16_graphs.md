@@ -135,8 +135,59 @@ public static void dfs(int u) {
 ### Improvements
 + Use a heap
 + The set s does not need to be used
++ add backpointer to previous node to also get the path.
 
 ### Time
 + for a complete graph O(n^2 log n)
 + for a sparse graph O(n log n)
 + expected time
+
+## Undirected tree
++ only one path to each node from any dnode
++ contains no cycle
++ minimal number of edges to connect all vertices
+
+## Spanning Trees
++ An undirected tree that is a subset of a graph such that it is an undirected tree
+
+### Subtractive method
++ start with the whole graph
++ find a cycle delete one of the edges
++ repeat until there are no more cycles
++ nondeterministic -- does not lead to the same spanning tree every time
+
+### Additive method
++ start with no edges
++ add an edge to an edge that is not yet coonnected
++ uses minimal number of edges method
+
+### Minimum spanning tree
++ the sum of the weights of the edges is the smallest possible
+
+## Greedy Algorithm
++ always picks the optimal choice at each step with hope of finding the best possible answer
++ sometimes can't even proceed
+
+### Kruskal algorithm
++ find the edge with the minimum weight
++ if it forms an edge throw it out
++ otherwise keep it
+
+### Prim's Algorithm
++ starting with any vertex add the min weight edge
++ it must be connected
++ the added edge must combine to form a tree
++ Adjacency queue
+    + O(n + m log m) with a standard PQ
+    + O(m + n log n) with a fancier PQ
++ O(n^2) with an adjacency matrix
+
+### Conclusions
++ if all edges are distinct these always find the same tree
+
+### Applications
++ can used to draw mazes
+
+## Travelling salesman problem
+
+
