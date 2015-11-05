@@ -10,7 +10,7 @@ students.
 If you are interested in contributing you can send pull requests here or email me and perhaps I will add you
 as a contributor for this repository.
 
-This year I am taking:
+This semester I am taking:
 + CS 2110
 + CHEM 2150
 + MATH 2210
