@@ -44,3 +44,4 @@
 
 ### X-Ray Difraction
 + X-rays bounce off the atoms in a way to get constructive and destructive interference
+
