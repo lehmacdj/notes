@@ -6,6 +6,8 @@
 
 ## Waves
 + velocity
++ extended in space
++ frequency wavelength
 
 ### Standing waves
 + like a musical instrument
@@ -22,7 +24,13 @@
 + pushes boats surfers etc
 + energy = amplitude
 
-#### Light
+# Light
 + electric field E and magnetic field B
 + changes electrons and protons
 + energy depends
+
+## Types of light
++ radio - mri, nmr
++ microwaves - molecule rotations bonds vibrate
++ infra-red - bonds vibrate electrons move
++ visible onward - moves electrons
