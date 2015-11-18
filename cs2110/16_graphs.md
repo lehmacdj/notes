@@ -189,5 +189,6 @@ public static void dfs(int u) {
 + can used to draw mazes
 
 ## Travelling salesman problem
-
-
++ NP Complete
++ extremely difficult
++ harder than O(2^n)

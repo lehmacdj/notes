@@ -76,3 +76,4 @@ The e- flow from left to right
 + main group
     + 1. draw lewis structure
     + xfer <- to most
+
