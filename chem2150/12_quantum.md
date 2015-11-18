@@ -34,3 +34,7 @@
 + microwaves - molecule rotations bonds vibrate
 + infra-red - bonds vibrate electrons move
 + visible onward - moves electrons
+
+## Photoelectric effect
++ when light strikes metal electrons fly of
+
