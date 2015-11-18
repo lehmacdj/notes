@@ -1,0 +1,28 @@
+# Quantum Mechanics
+## Particles
++ localized
++ have mass
++ have velocity
+
+## Waves
++ velocity
+
+### Standing waves
++ like a musical instrument
++ oscilates up and down
++ wavelength = Full length of L
+
+### Travelling waves
++ moves in a direction
++ has a wavelength
++ frequency * wavelength = speed
+
+#### Ocean wave
++ water
++ pushes boats surfers etc
++ energy = amplitude
+
+#### Light
++ electric field E and magnetic field B
++ changes electrons and protons
++ energy depends
