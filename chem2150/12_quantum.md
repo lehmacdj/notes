@@ -36,5 +36,11 @@
 + visible onward - moves electrons
 
 ## Photoelectric effect
-+ when light strikes metal electrons fly of
++ when light strikes metal electrons fly off
 
+## Properties
++ Light is like a particle
++ but also like a wave
+
+### X-Ray Difraction
++ X-rays bounce off the atoms in a way to get constructive and destructive interference
