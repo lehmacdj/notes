@@ -42,3 +42,6 @@
     + obain through graham schmidt process
 + R is a upper triagonal matrix with positive entries on the diagonal
 
+## Inner product spaces
++ let V be a vector space with <,>:VxV -> R
+
