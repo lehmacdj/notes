@@ -6,11 +6,11 @@
 + bond energies are not always exactly the same
     + therefore not very accurate
     + at most ±5% accurate
-    + therefore shouldn't be trusted hightly
+    + therefore shouldn't be trusted highly
 
 ##Some basic thinking
 + it is easy to think that only exothermic reactions will react
-+ howerver that is not always true
++ however that is not always true
 + sometimes endothermic reactions are spontaneous
 
 ##Definition
@@ -38,7 +38,7 @@ volume increases
 ∴ entropy increases
 ```
 
-####Adiabadic
+####Adiabatic
 ```
 qrev = 0
 ∴ ∆S = 0
@@ -59,7 +59,7 @@ temperature increases
 ∴ entropy increases
 ```
 
-####Reversable vs Irreversable
+####Reversible vs Irreversible
 + qrev > qirrev
 + wirrev > wrev
 
@@ -81,8 +81,8 @@ temperature increases
 
 ###Entropy properties
 + The more parts the more entropy
-+ The more gasseous the more entropy
++ The more gaseous the more entropy
 + complexity => more entropy
-+ floppyness => more entropy
++ floppiness => more entropy
 + different molecules
 
