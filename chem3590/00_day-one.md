@@ -30,4 +30,14 @@
 
 ## Structure
 + Lewis structures
+    + doesn't show the 3 dimensional structure of the molecule
+    + ![CH4 Lewis Structure](img/ch4-lewis.png)
++ VSEPR
+    + shows the spatial orientation
+    + wedge dash line convention
+        + wedge means comes out of the page
+        + dashed line means goes into page
+    + ![CH4 VSEPR Structure](img/ch4-vsepr.png)
 
+C2H6
+C2H4
