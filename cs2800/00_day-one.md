@@ -24,4 +24,18 @@ discreet - unobtrusive not discrete separate
     + Thinking about the problem as a graph leads to a simpler solution
     + Allows proof that it is impossible to survey the bridges in that way
     + having an odd number of bridges to each landmass makes this impossible
++ Euler Path
+    + The bridges of königsberg problem
++ Hamiltonian path
+    + visit each landmass once 
+    + NP complete problem
+
+# Logic
++ This statement is false. 
+    + A paradox
+
+# Themes of the course
++ How to prove things
++ how to write good proofs
++ That is where we will be starting
 
