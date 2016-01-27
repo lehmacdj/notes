@@ -11,9 +11,9 @@ If you are interested in contributing you can send pull requests here or email m
 as a contributor for this repository.
 
 This semester I am taking:
-+ CS 2110
-+ CHEM 2150
-+ MATH 2210
-+ ENGL 1167
-
-I am not taking notes for ENGL 1167 for this class since it is a writing seminar and seminar based.
++ CS 3110
++ CS 2800
++ CHEM 3590
++ BIO 1440
++ BIO 1500
++ MATH 2220
