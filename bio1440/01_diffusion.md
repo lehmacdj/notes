@@ -40,11 +40,55 @@
 + phospholipids slip and slide past each other rapidly
 + about 10^7 times per second they swap places
 + about once a month phospholipids flip to the other side of the membrane
-+ Membrane saturation
++ Membrane saturation / water fluidity
     + double bonds = less saturation
         + leads to a more fluid membrane
         + more like an oil
     + single bonds = more saturation
         + leads to a less fluid membrane
         + more like butter
++ Membrane fluidity is dependent on temperature
+    + as an adaptive solution animals that live in colder environments have a
+      higher amount of unsaturated pphospholipids
++ phospholipids in the bilayer are fluid
+    + gaps open and close
+    + serve as a route for free diffusion
++ water molecules therefore get a way to go through the membrane
++ small and weakly polarized molecules can pass through the membrane
++ what is the maximum size for diffusion?
+    + Glucose is roughly the size but cannot really pass through
++ Simple diffusion of non-charged molecules
++ substances diffuse down their concentration gradient
+    + does not require energy
++ closed systems move toward equilibrium or the state of the minimum capacity to
+  do work
++ please note cells and organisms are open systems
+    + this means that mass can be added or removed from it
 
+### Fick's Diffusion Equation
++ Complex variant
+
+```
+J = D((C1 - C2) / X)
+where
+J:= the amount of substance that flows (per unit area per unit time)
+D:= the diffusion coefficient
+C1 - C2:= the difference in concentration between the solute at two locations
+X:= distance separationg regions of high and low concentration
+D:= empirically determined for each solute pair
+```
+
++ Simpler variant: for cell membranes
+
+```
+J = P (C1 - C2)
+where 
+P is the membrane permeability constant for a substance
+```
+
++ For certain compounds
+    + Albumin - too big
+    + estrogen - a steroid and therefore fatty so it passes right through the
+      cell membrane
+    + water can pass through but not very effectively
+    + H+ is very small and can therefore pass through easily
