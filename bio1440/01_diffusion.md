@@ -83,7 +83,8 @@ D:= empirically determined for each solute pair
 ```
 J = P (C1 - C2)
 where 
-P is the membrane permeability constant for a substance
+P:= permeability: the membrane permeability constant for a substance, and the properties of
+that substance
 ```
 
 + For certain compounds
@@ -92,3 +93,103 @@ P is the membrane permeability constant for a substance
       cell membrane
     + water can pass through but not very effectively
     + H+ is very small and can therefore pass through easily
+
++ all molecules are moving randomly and the net movement of the particles is in
+  a single direction
++ net diffusion is determined by concentration
+
+### Diffusion of charged solutes across membranes
++ Lipid bilayer is a barrier to the diffusion of charged molecules
+charged molecules are lipophobic
+    + the charge acts to significantly lower the permeability of the solute
++ within a short distance of the membrane the charged molecules accumulate
+    + They can obstruct the flow of molecules
++ ions can diffuse through special channels
++ in some cases the flow of ions through these channels is *gated*
+    + this means that the channel can be turned on and off
++ Diffusion of ions and other charged molecules across the membrane is
+  influenced by:
+    + the chemical / concentration gradient
+    + electrical gradient
++ end result is that the electrical and chemical gradient are inverted
++ electrical gradient is independent of the solute identity
+
+### Facilitated diffusion
++ transport / carrier proteins speed the passive movement of molecules across
+  the plasma membrane
+    1. Occurs in the direction of the electrochemical equilibrium
+    2. Transport is faster than in the absence of the transporter
+    3. requires that the solute bind reversibly
+    4. does not require energy
+
+### Active transport
++ 3 major parts
+    1. performed by several integral membrane proteins
+    2. moves substances against the electrochemical gradient
+    3. requires energy usually in the form of ATP
++ classic example is is the sodium potassium pump
+    + uses energy to maintain the electrochemical gradient for the Na+ and K+
+      typically observed within cells
+    + exchanges 3Na+ for 2K+
+    + how does it work?
+        + ions move across the membrane when the enzyme undergoes a conformational
+          change
+        + energy for the conformational change is provided by the hydrolyation
+          of ATP
+        + the ATP allows for the movement accross the concentration gradient
+
+### Secondary Active Transport
++ A form of active transport
++ ATP is used indirectly to move against the concentration gradient
++ Example
+    + co-transporter binds to glucose and sodium
+    + when a sodium potassium pump pumps out Na+ and the glucose is pulled in on
+      the outside
+    + sodium cannot be brought into the cell unless there is also glucose with
+      it
+    + Na+ gradient is the battery that powers this transportation
+
+### Osmosis
++ Osmosis is positively correlated with solute concentration (dissolved
+  molecules)
++ As the solute concentration changes the rate and the direction of water
+  diffusion changes
++ change the solute concentration of the extracellular fluid
+    + if in distilled water cell bursts because water enters the cell
+    + if in concentrated salt solution cells shrink because water leaves the
+      cell to change the concentration gradient
++ Water can move across membranes by dissolving into phospholipid bilayer
++ they also move through aquaporins which are water channels that can increase
+  the rate of diffusion by about 10^4
+
+## Metabolism
++ Chemical reactions involve the breaking and formation of bonds
++ The bonds are broken and then reconnected in a different shape (Activation
+  energy)
++ This involves a transition that costs energy and then produces energy once one
+  gets over the hill
++ catalysts reduce the activation energy
++ enzymes are a protein catalyst
+
+### Reactions
++ reactions can be represented in many ways
++ all enzymes mediate reversible reaction
++ often enzyme mediated reactions require non-protein cofactors or helper
+  molecules
+
+### Shapes of reaction curves and enzymes
++ Hyperbolic kinetics
+    + one site to interact with substrates
++ Sigmoid kinetics
+    + Multiple sites and the interaction between sites affects the rate of the
+      reaction
+![Sigmoid and Hyperbolic Kinetics](img/sigmoid-hyperbolic.png)
++ The reaction rate increases as substrate concentration increases
+    + reaction rate eventually plateaus
+    + V\_max maximum reaction velocity and depends on 
+        + concentration of the enzyme
+        + *catalytic effectiveness of enzyme*
+        + V = V\_max *[S]/[S] + K\_m
+        + K\_m is the measure of enzyme substrate affinity
+    + Isozymes different enzymes that catalyze the same reaction
+        + The value of K\_m can change without modifying V\_max
