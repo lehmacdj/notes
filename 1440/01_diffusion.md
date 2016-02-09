@@ -16,7 +16,7 @@
 + How can we derive this outcome?
    + Let us break the membrane down to its molecular components.
 
-## Composition of the cell membrane 
+## Composition of the cell membrane
 + Membrane composed of a bilayer of phospholipids
 + Proteins and carbohydrates are embedded in the bilayer
 
@@ -82,7 +82,7 @@ D:= empirically determined for each solute pair
 
 ```
 J = P (C1 - C2)
-where 
+where
 P:= permeability: the membrane permeability constant for a substance, and the properties of
 that substance
 ```
@@ -186,10 +186,48 @@ charged molecules are lipophobic
 ![Sigmoid and Hyperbolic Kinetics](img/sigmoid-hyperbolic.png)
 + The reaction rate increases as substrate concentration increases
     + reaction rate eventually plateaus
-    + V\_max maximum reaction velocity and depends on 
+    + V\_max maximum reaction velocity and depends on
         + concentration of the enzyme
         + *catalytic effectiveness of enzyme*
-        + V = V\_max *[S]/[S] + K\_m
+        + V = V\_max \*[S]/[S] + K\_m
         + K\_m is the measure of enzyme substrate affinity
+            + This leads to different shaped curves
+            + lower leads to less curvature because Formation of the enzyme
+              substrate complex is rate limiting
     + Isozymes different enzymes that catalyze the same reaction
         + The value of K\_m can change without modifying V\_max
+
+### Regulating enzyme activity
++ reaction rate depends on
+    + concentration and identity of the enzyme
++ both the identity and the concentration of enzyme in cell depend on
+    + Level of gene expresion
+        + transcription translation
+    + degradation of the enzyme
+    + two general patterns
+        + *constitutive* - stays in constant quantitiy
+            + rate of synthesis = rate of degradation
+        + *inducible* - present at a low level or not at all unless the
+          synthesis of the enzyme is induced
+
+### Regulating metabolic pathways
++ Metabolic pathways are series of chemical reaction occurring within a cell
++ rate limiting steps are strategically placed
++ allosteric regulatory molecules bind to an enzyme at a site other than the
+  active site
+    + the binding of an *activator* stabilizes the active form of the enzyme
+    + the binding of an *inhibitor* stabilizes the inactive form of the enzyme
++ Ex:
+    + Phosphofructosekinase: key step in glycolytic pathway
+        + controlled by many activators and inhibitors
+        + energy is needed at this step to reverse this step
+        + The most significant rate limiting step in this process
+        + it is inefficient to push everything through if there is sufficient
+          ATP
+
+#### Covalent Modification
++ Specific Protein Kinases Phosphatases are involved with the phosphorylation of
+  proteins
++ The addition or removal of phosphate groups alters the activity of enzymes
++ sometimes the target of a protein kinases is a second protein kinase
+    + this leads to the amplification of the original signal
