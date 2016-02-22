@@ -43,4 +43,4 @@
    phosphorus to the thing
 4. Myoglobin oxygen storing molecule in striated muscles
 
-
+( Notes continued in pdf )
