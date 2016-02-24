@@ -37,7 +37,7 @@
 ### Convection
 + The transfer of heat between fluids and other objects in a system
 + The transfer of heat through a material mediated by macroscopic motion of the
-  material (bulk flow). 
+  material (bulk flow).
 + Heat is carried from place to place by some kind of carrier.
 + Typically we mean air here.
 + There is a boundary layer near all things in the environment
@@ -58,6 +58,8 @@
   because the water can not evaporate
 
 ## Endotherms
++ "Inside temperature"
+    + The temperature originates from within the body of the creature
 + T\_b is mostly metabolic
 + Thermo-regulating endotherms are usually called homeotherms
     + this includes most different birds and mammals
@@ -65,7 +67,33 @@
     + e.g. naked mole rat
 
 ## Ectotherms
++ "Outside temperature"
+    + The temperature originates mostly from the environment
 + T\_b is mostly environmental
 + Most are non regulating
     + Their temperature changes throughout the day etc.
 + Some ectotherms regulate their temperature behaviorally
+    + thermoregulating ectotherms
+    + behavioral thermo regulators
+
+### Temperature regulating ectotherms
++ Evidence:
+    + Lizards
+        + Models passively exchange all components of the heat exchange equation
+          except for H\_met
+        + They have a wide range of temperatures when placed in an environment if
+          the temperature is then measured
+        + Real lizards have a much smaller temperature range of temperatures based
+          on the environment
+    + Bluefin tuna
+        + They are inbetween completely conforming to the temperature of the
+          environment and having a constant temperature
+    + Bees
+        + The abdomen is the same temperature of the environment
+        + The rest of their body is way warmer, almost consistent with being a
+          thermoregulator
+
+### Gigantothermy
++ Big animals have a small surface area to volume ratio
++ Once they are warm they do not loose temperature quickly and effectively
+  become and endotherm for the day and can regulate their body temperature
