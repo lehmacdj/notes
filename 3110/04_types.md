@@ -43,3 +43,10 @@
 7. module type T = sig ... end
 8. functors module Name (M: ty1n): tyout = structure ... end
 9. monitors - chapter 18 - useful for asynchronus computing
+
+## Type theory of OCaml
++ 200+ axioms vs 10 axioms of set theory + 12 axioms of formal logic math
++ *Provides computability*
++ Folk wisdom - "if it type checks it works"
++ Empty type in ocaml: {none: 'a.'a}
+    + must contain everything, therefore it must not be able to contain anything
