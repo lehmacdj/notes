@@ -76,7 +76,7 @@ sensory neuron -> central neuron -> motor neuron -> muscle
 
 ### Passive Membrane Properties Determine Membrane Potential
 
-### time constant
+### Time Constant
 
-### length constant
+### Length Constant
 
