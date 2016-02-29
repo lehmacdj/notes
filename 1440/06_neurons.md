@@ -109,6 +109,13 @@ sensory neuron -> central neuron -> motor neuron -> muscle
 + Some charge can be stored in the membrane
 + the Time constant tau = C_m * R_m
 + In passive membranes C_m and R_m are stable
++ Delay is due to C_m and R_m
+    + Ions and their charge is stored across the membrane
+        + The phospholipid bilayer is nonconductive
+    + It takes time to charge the parts of the cell.
+    + Ion channel allows ions to diffuse across the membrane
+    + Result: Fewer ions available to give the membrane charge
+    + The channel makes the ions leave as soon as they enter the cell
+      effectively
 
 #### Length Constant
-
