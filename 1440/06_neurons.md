@@ -43,6 +43,37 @@
     + Is the other component of the synapse
 + Neurons transmit information using an electrical action potential
 
+#### Size of Neurons
++ Axons are capable of rapidly carrying electrical signals over distances
+  measuring from microns to meters
+    + In a giraffe neurons are extremely long
+    + In a tiny tick they are very small on the scale of Microns
+
+#### Speed of Neurons
++ Neurons are very very fast.
++ Up to 100 impulses per second
++ Speeds of 20 - 100 m/s
++ Top speed of an action potential is arround 240 kph
+
+#### How are these properties possible?
++ Axons are capable of carrying many electrical signals very rapidly
++ The signal jumps from one neuron to another (across the membrane)
+    + This can be chemical
+    + or electrical
++ Post synaptic terminals receives chemical or electrical signals
+
+#### Neural Circuits
++ A group/network of neurons that control a discrete (separate / distinct)
+  response or behavior
++ The circuit is conceptually easy
+    + Afferent Neurons are sensory
+    + Central neurons are an integration center
+    + efferent neurons transmit control signals to target cells (e.g. muscles)
+
+```
+sensory neuron -> central neuron -> motor neuron -> muscle
+```
+
 ### Passive Membrane Properties Determine Membrane Potential
 
 ### time constant
