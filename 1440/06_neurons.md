@@ -75,8 +75,40 @@ sensory neuron -> central neuron -> motor neuron -> muscle
 ```
 
 ### Passive Membrane Properties Determine Membrane Potential
++ Membrane voltage or V_m = the electrical potential at the inner surface
+  relative the outer surface of the membrane
++ This is derived from electrical force and diffusion
++ Basically an electrochemical gradient on the cell membrane
++ V_m is the potential to do work when ions are allowed to flow across the
+  membrane
 
-### Time Constant
+#### Measuring V_m
++ Electrodes
+    + Microelectrodes allow the measuring of V_m from inside of the cell
+    + A reference electrode is placed outside of the cell
++ A voltmeter is used to record the potential across the cell membrane
++ V_m is measured in mV
+    + The Resting membrane potential is about 40mV to 80 mV
+    + Every kind of cell actually has this membrane potential
 
-### Length Constant
+#### Membrane Passive properties
++ Different properties of membranes play an important role in determining V_m
++ Membrane resistance R_m
+    + the specific membrane resistance measured per unit of membrane
+    + inversely related with permeability
++ Based on Ohm's law one would expect Resistance to be the only important factor
++ Experiments however determine that this is not he case
++ The curve should be square shaped if it follows ohm's law
++ *however:* instead it has lag
++ Change in V_m lags and needs to change slowly
++ The delay must be due to sever constants
+
+#### Time Constant
++ C_m is the storage of charge across the membrane
+    + This quantity is measured in terms of Farads
++ Some charge can be stored in the membrane
++ the Time constant tau = C_m * R_m
++ In passive membranes C_m and R_m are stable
+
+#### Length Constant
 
