@@ -119,3 +119,62 @@ sensory neuron -> central neuron -> motor neuron -> muscle
       effectively
 
 #### Length Constant
++ You inject a current pulse into an axon
++ The current spreads along the length of the axon
++ Maximum size of the voltage change diminishes with distance from the
+  injection site.
++ Distance at which the input drops is 35% lambda
++ At any given point along the length of the axon the number of available (or
+  the density of) charges determines the maximum change in membrane potential
++ What factors influence changes in the density of hte charges with the distance
+  of the axon.
++ Lambda depends on the membrane resistance and internal resistance of the axon
++ A little about resistors
+    + In series the sum of the resistors
+    + In parallel sum of reciprocals
+    + Current flows through the shortest path
+    + shortest path = r_m (because it is the lowest resistive path)
++ lambda = sqrt (r_m / r_i)
++ The longer the axon the higher the resistance of that material total
++ Through the cell is like in series
++ Out of the cell is like in parallel
++ As the current gets further away there is less charge because the charge
+  escapes the cell
++ Reducing either the internal resistance increases `lambda`, decreasing the
+  membrane resistance decreases `lambda`
++ The resting membrane potential (V_m)
+
+#### The membrane resting potential
++ At rest K+ channels are leaky
++ Na+ Channels tend to be closed at rest
++ Most molecules e.g. A- (generic anion) cannot cross the membrane
+
+##### The key point
++ A very small number of ions are responsible for generating a -90 mA V_m
+
++ V_m is determined by
++ Passive diffusion
++ Active transport
++ Without Na+-K+-ATPase with time the Na+ and K+ electrochemical gradients
+  would slowly decrease, K+ slowly leaks out of the cell and an excess of Na+
+  develops in the cell
+
+##### Chlorine
++ There is very little chlorine inside of the cell because it driven out of the
+  cell by anions inside of the cell
+    + The excess of anions inside the cell is mostly proteins...
+    + Acid anions etc.
+
+#### Net equilibrium or Nernst Potential of an Ion
++ like E = E + RT/nF ln Q
++ In biology we abbreviate this as:
+    + E_x = 62mV log ([x]outside / [x]inside)
++ This equation can be used to approximate the amount a certain ion is important
+  in establishing equilibrium
++ Based on the Nernst equation it was determined that 
+    + K is primarily responsible for the V_m
+    + This is logical since it is one of the most 
+
+#### The Goldman equation
++ Describes the relative contribution of multiple ions on the resting membrane
+  potential based on differences in their ion permeability
