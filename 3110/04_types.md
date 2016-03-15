@@ -48,5 +48,5 @@
 + 200+ axioms vs 10 axioms of set theory + 12 axioms of formal logic math
 + *Provides computability*
 + Folk wisdom - "if it type checks it works"
-+ Empty type in ocaml: {none: 'a.'a}
++ Empty type in ocaml: `type void = {void: 'a.'a}`
     + must contain everything, therefore it must not be able to contain anything
