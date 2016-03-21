@@ -10,3 +10,9 @@
     - No multiplication either
 
 5. Programming logic
+
+```
+let proof x = fun g -> fun b -> match x with
+  | L a -> g a
+  | R b2void -> b2void b
+```
