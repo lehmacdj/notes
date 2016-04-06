@@ -12,4 +12,3 @@ This semester I am taking:
 + CHEM 3590
 + BIO 1440
 + BIO 1500
-+ MATH 2220
